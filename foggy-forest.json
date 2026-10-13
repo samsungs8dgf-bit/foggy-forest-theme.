@@ -124,9 +124,9 @@
     "RED_400": "#B86B70"
   },
   "background": {
-    "url": "https://raw.githubusercontent.com/samsungs8dgf-bit/foggy-forest-theme./main/forest-background.jpg",
-    "blur": 0,
-    "alpha": 0.72,
-    "color": "#08100C"
+  "blur": 0,
+  "url": "https://raw.githubusercontent.com/samsungs8dgf-bit/foggy-forest-theme./main/forest-background.jpg",
+  "alpha": 1
+  }
   }
 }
