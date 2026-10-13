@@ -1,0 +1,132 @@
+{
+  "name": "Fogbound Woodland \u2014 Monochrome Collage",
+  "description": "Custom foggy forest collage wallpaper with dark green tinted Discord surfaces.",
+  "authors": [
+    {
+      "name": "Custom personal theme"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#EDF2ED"
+    ],
+    "HEADER_SECONDARY": [
+      "#B5C1B7"
+    ],
+    "TEXT_NORMAL": [
+      "#E4EAE4"
+    ],
+    "TEXT_MUTED": [
+      "#9CAAA0"
+    ],
+    "TEXT_LINK": [
+      "#B2D7B5"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#BDCDC0"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#D2E2D4"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#ECF3ED"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#6F8074"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#0A100D"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#121A15"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#17221B"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#080D0A"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#26392D"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#0D1510"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#101712"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#101A13"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#101912"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#1D2B21"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#233127"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#2A3D30"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#314737"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#435548"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#17221B"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#AEC0B1"
+    ],
+    "CHANNEL_ICON": [
+      "#B5C8B9"
+    ],
+    "CHAT_BACKGROUND": [
+      "#0D1510"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#243127"
+    ],
+    "SPOILER_REVEALED_BACKGROUND": [
+      "#405346"
+    ],
+    "KEYBOARD": [
+      "#0C130F"
+    ],
+    "TEXT_DANGER": [
+      "#E3A3A3"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#EDF2ED",
+    "PRIMARY_200": "#CFDBD0",
+    "PRIMARY_300": "#B2CAB5",
+    "PRIMARY_360": "#99B39F",
+    "PRIMARY_400": "#81A18A",
+    "PRIMARY_500": "#63866C",
+    "PRIMARY_600": "#23382A",
+    "PRIMARY_630": "#1B2A20",
+    "PRIMARY_660": "#152219",
+    "PRIMARY_700": "#101912",
+    "PRIMARY_800": "#0A100D",
+    "BRAND_260": "#B4D5BA",
+    "BRAND_360": "#90B999",
+    "BRAND_500": "#6F9778",
+    "BRAND_560": "#567C61",
+    "WHITE_500": "#EDF2ED",
+    "GREEN_360": "#83B48E",
+    "YELLOW_300": "#CFC49B",
+    "RED_400": "#B86B70"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/REPLACE_USERNAME/REPLACE_REPOSITORY/main/forest-background.jpg",
+    "blur": 0,
+    "alpha": 0.72,
+    "color": "#08100C"
+  }
+}
